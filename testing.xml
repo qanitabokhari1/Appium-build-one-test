@@ -1,11 +1,13 @@
 <suite name="Appium Test Suite">
     <test name="Scenario Tests">
         <classes>
-            <!--          build  1.-->
-            <class name="Tasks.tests.Scenario1"/>
-            <class name="Tasks.tests.Scenario2"/>
-<!--            &lt;!&ndash;          build  2.&ndash;&gt;-->
-<!--                        <class name="Tasks.tests.Selendroid_scn2"/>-->
+<!--            &lt;!&ndash;          build  1.&ndash;&gt;-->
+<!--            <class name="Tasks.tests.Scenario1"/>-->
+<!--            <class name="Tasks.tests.Scenario2"/>-->
+
+            <!--          build  2.-->
+                        <class name="Tasks.tests.Selendroid_scn2"/>
+
 <!--            &lt;!&ndash;          build  3.&ndash;&gt;-->
 <!--                        <class name="Tasks.tests.Selendroid_scn1"/>-->
 <!--                        <class name="Tasks.tests.Selendroid_scn3"/>-->
