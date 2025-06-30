@@ -2,13 +2,8 @@
     <test name="Scenario Tests">
         <classes>
             <!--          build  1.-->
-<<<<<<< HEAD
-<!--            <class name="Tasks.tests.Scenario1"/>-->
-<!--            <class name="Tasks.tests.Scenario2"/>-->
-=======
             <class name="Tasks.tests.Scenario1"/>
             <class name="Tasks.tests.Scenario2"/>
->>>>>>> cfcb8e16c8ce012e57f19eb5c74ae13f919f7df5
 
             <!--          build  2.-->
 <!--                        <class name="Tasks.tests.Selendroid_scn2"/>-->
