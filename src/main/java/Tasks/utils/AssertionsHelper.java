@@ -26,9 +26,5 @@ public class AssertionsHelper {
         Assert.assertEquals(actual, expected, message);
     }
 
-
-    // Optional: Asserts equality between two generic types
-    public static <T> void assertEqualsGeneric(T actual, T expected, String message) {
-        Assert.assertEquals(actual, expected, message);
     }
-}
+
