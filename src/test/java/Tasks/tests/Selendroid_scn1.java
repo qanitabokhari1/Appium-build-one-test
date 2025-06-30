@@ -9,7 +9,6 @@ public class Selendroid_scn1 extends Selendroid_Base {  // extend base class
 
     @Test
     public void testUserRegistration() {
-        CommonFunctions commonFunctions = new CommonFunctions(driver);
         Selendroid_homePage selendroidHomePage = new Selendroid_homePage(driver);
         selendroidHomePage.handlePermissions();
         selendroidHomePage.startUserRegisterration();
